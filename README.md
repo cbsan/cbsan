@@ -10,6 +10,7 @@ I'm currently estuding Dart/Flutter.
 - React Native
 - PHP
 - Flutter
+- C#
 
 ![Cristian B. Santos github stats](https://github-readme-stats.vercel.app/api?username=cbsan&show_icons=true&count_private=true&theme=dracula)
 
