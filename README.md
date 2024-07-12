@@ -1,6 +1,4 @@
-Software Enginner always looking for more knowledge. 
-
-I'm currently estuding Dart/Flutter.
+Software Enginner always looking for more knowledge.
 
 ---
 ### Skils
